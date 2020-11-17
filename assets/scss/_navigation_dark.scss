@@ -11,6 +11,9 @@
         color: $link-color-dark;
       }
     }
+    .blinking {
+     background-color: $fg-color-dark;
+    }
     .navigation-list {
       @media only screen and (max-width : 768px) {
         background-color: $bg-color-dark;
